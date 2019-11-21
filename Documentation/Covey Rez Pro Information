@@ -18,3 +18,9 @@ The system is NON-DESTRUCTIVE for your items. Because it was designed for Open S
 Like all rez systems packing and rezzing no-copy items can easily end up with you permanently losing the item. Covey Rez system pro protects you against this by detecting it and refusing to record the item. Of course you get notified. When you are packing items you also have protection against dropping a script into the same item twice. Should you do this, the duplicate script will be detected and removed. 
 
 There are many other features to help you along the way, keep reading to find them all or just dive in and have a go. 
+
+
+HG Map: http://hg.neverworldgrid.com:8002/Covey Stores
+HG TP:  secondlife://hg.neverworldgrid.com:8002/Covey%20Stores/130/133/2
+V3HG TP: secondlife://http|!!hg.neverworldgrid.com|8002+Covey+Stores
+LocalGrid TP: secondlife://Covey%20Stores/130/133/23
